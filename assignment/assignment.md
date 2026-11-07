@@ -28,12 +28,12 @@ Submit the following files:
 2.  `style.css`
 3.  `starter.js` (Your completed work)
 
-## Grading Rubric (Total: 50 Points)
+## Grading Rubric (Total: 100 Points)
 | Component | Points | Description |
 | :--- | :--- | :--- |
-| **Structure & Linking** | 5 | Correct linking of jQuery, CSS, and JS. |
-| **Event Handling** | 10 | Correctly using `$(document).ready()` and preventing default form submission. |
-| **Name Validation** | 10 | Correctly checking for emptiness and displaying the error. |
-| **Username Validation** | 10 | Correctly checking for emptiness AND minimum length (5 characters). |
-| **Email Validation** | 10 | Correctly checking for emptiness AND valid regex format. |
-| **Password Validation** | 5 | Correctly checking for emptiness AND minimum length (8 characters). |
+| **Structure & Linking** | 10 | Correct linking of jQuery, CSS, and JS. |
+| **Event Handling** | 20 | Correctly using `$(document).ready()` and preventing default form submission. |
+| **Name Validation** | 20 | Correctly checking for emptiness and displaying the error. |
+| **Username Validation** | 20 | Correctly checking for emptiness AND minimum length (5 characters). |
+| **Email Validation** | 20 | Correctly checking for emptiness AND valid regex format. |
+| **Password Validation** | 10 | Correctly checking for emptiness AND minimum length (8 characters). |
